@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 A little bit about me
 
 Hi there 👋🏻  
-I'm Software Engineer at [Big Bang Shop](https://www.bigbangshop.com.br/), working over Vue.Js, Node.Js and Laravel.
+I'm Software Engineer at [QuintoAndar](https://www.quintoandar.com.br/), working over React.Js.
 
 My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/KXBMNr1/vue.png" width="20"/> <b>Vue Js</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
 
