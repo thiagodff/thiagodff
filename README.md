@@ -6,9 +6,9 @@
 ### 👨🏻‍💻 A little bit about me
 
 Hi there 👋🏻  
-I'm Software Engineer at [QuintoAndar](https://www.quintoandar.com.br/), working over React.Js.
+I'm Software Engineer at [QuintoAndar](https://www.quintoandar.com.br/), working over React.Js and Java.
 
-My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/KXBMNr1/vue.png" width="20"/> <b>Vue Js</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
+My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
 
 <!--
 **thiagodff/thiagodff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
